@@ -1,0 +1,56 @@
+Bisharp @ Life Orb  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Brick Break  
+- Iron Head  
+- Psycho Cut  
+
+Blacephalon @ Choice Specs  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Psyshock  
+- Shadow Ball  
+- Fire Blast  
+
+Greninja @ Life Orb  
+Ability: Battle Bond  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Water Shuriken  
+- Gunk Shot  
+- Hydro Pump  
+
+Leafeon @ Leftovers  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Leaf Blade  
+- Knock Off  
+- X-Scissor  
+- Swords Dance  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Shadow Ball  
+- Thunderbolt  
+- Will-O-Wisp  
+
+Mimikyu @ Lum Berry  
+Ability: Disguise  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Substitute  
+- Shadow Claw  
+- Drain Punch  
+
