@@ -1,7 +1,7 @@
 # Showdown-AI
 
 
-## Current features:
+## Current features
 - Functioning Selenium (Python) bot that is able to receive challenges from configured users.
 - An unweighted RNG based "AI" that selects between standard moves and switching equally.
 - A game state finite state machine that's hooked up to do... absolutely nothing (yet).
